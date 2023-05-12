@@ -12,4 +12,9 @@
 * show tables;
 * select*from users;
 
+## Route
 
+* home
+* login
+* logout
+* register
